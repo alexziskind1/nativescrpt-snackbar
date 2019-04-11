@@ -1,6 +1,6 @@
 {
   "name": "nativescrpt-snackbar",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "description": "A NativeScript plugin for the Material Design SnackBar.",
   "main": "snackbar",
   "typings": "index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bradmartin/nativescrpt-snackbar"
+    "url": "https://github.com/alexziskind1/nativescrpt-snackbar"
   },
   "scripts": {
     "tsc": "tsc -skipLibCheck",
@@ -89,7 +89,7 @@
   "bugs": "https://github.com/bradmartin/nativescrpt-snackbar/issues",
   "homepage": "https://github.com/bradmartin/nativescrpt-snackbar",
   "dependencies": {
-    "docoolthing": "~1.0.2"
+    "docoolthing": "^1.0.2"
   },
   "devDependencies": {
     "husky": "^1.3.1",
