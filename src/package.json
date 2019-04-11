@@ -89,7 +89,7 @@
   "bugs": "https://github.com/bradmartin/nativescrpt-snackbar/issues",
   "homepage": "https://github.com/bradmartin/nativescrpt-snackbar",
   "dependencies": {
-    "docoolthing": "1.0.2"
+    "docoolthing": "~1.0.2"
   },
   "devDependencies": {
     "husky": "^1.3.1",
